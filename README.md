@@ -1,5 +1,6 @@
 *Use of this software is subject to important terms and conditions as set forth in the License file*
 
+**Table of Contents**
 - [App Scaffold](#app-scaffold)
   - [Description](#description)
   - [Getting Started](#getting-started)
